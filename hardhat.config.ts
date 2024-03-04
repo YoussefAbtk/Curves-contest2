@@ -1,6 +1,6 @@
 import * as dotenv from "dotenv";
 dotenv.config({ path: __dirname + "/.env" });
-
+import "@nomicfoundation/hardhat-foundry";
 import "@typechain/hardhat";
 import "@nomiclabs/hardhat-waffle";
 import "@nomiclabs/hardhat-ethers";

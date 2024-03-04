@@ -1,5 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
+  "contractName": "CurvesErrors",
+  "sourceName": "contracts/Curves.sol",
   "abi": [
     {
       "inputs": [],
@@ -88,9 +90,7 @@
     }
   ],
   "bytecode": "0x",
-  "contractName": "CurvesErrors",
   "deployedBytecode": "0x",
-  "deployedLinkReferences": {},
   "linkReferences": {},
-  "sourceName": "contracts/Curves.sol"
+  "deployedLinkReferences": {}
 }
